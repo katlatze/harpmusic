@@ -4,4 +4,4 @@ icon: fas fa-coffee
 order: 5
 ---
 
-Test of the donate page
+<meta http-equiv="Refresh" content="0; url=https://ko-fi.com/valfreyjamusic"> 
