@@ -42,8 +42,8 @@ object[type='application/pdf'] {
 .ko-fi::after {
   content: '\f004';
   font-weight: 900;
-  font-size: 15px;
+  font-size: 10px;
   color: #fff;
-  position: absolute;
-  margin: 20px 0 0 -32px;
+  position: relative;
+  margin: 0px 0 0 -32px;
 }
