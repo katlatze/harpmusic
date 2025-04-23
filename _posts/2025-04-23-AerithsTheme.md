@@ -10,9 +10,11 @@ tags: [sheet_music,video_game,final_fantasy]
 
 This was a request from a member of the Harps Unite discord server that turned out to be a pretty nice harp song!
 
-<b><u>Download</u></b><br>
-MuseScore: [link](/files/{{page.name | slice: 11, 99 | replace:'.md','.mscz'}})<br>
-PDF: [link](/files/{{page.name | slice: 11, 99 | replace:'.md','.pdf'}})<br><br>
+| Download          | Link |
+| :---------------- | ---: |
+| MuseScore         | [.mscz](/files/{{page.name | slice: 11, 99 | replace:'.md','.mscz'}}) |
+| PDF               | [.pdf](/files/{{page.name | slice: 11, 99 | replace:'.md','.pdf'}}) |
+
 <object data="/files/{{page.name | slice: 11, 99 | replace:'.md','.pdf'}}" type='application/pdf'>
 <iframe src="https://docs.google.com/viewer?url=https://harp.nebtown.info/files/{{page.name | slice: 11, 99 | replace:'.md','.pdf'}}&embedded=true" style="width:100%; height:650px;" frameborder="0"></iframe>
 </object>

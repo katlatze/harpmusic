@@ -10,12 +10,8 @@ tags: [sheet_music,video_game,elder_scrolls]
 
 A beautiful track from Skyrim, which I've arranged to have no lever changes!
 
-<b><u>Download</u></b><br>
-MuseScore: [link](/files/{{page.name | slice: 11, 99 | replace:'.md','.mscz'}})<br>
-PDF: [link](/files/{{page.name | slice: 11, 99 | replace:'.md','.pdf'}})<br><br>
-
-| Download          | Price |
-| :---------------- | ----: |
+| Download          | Link |
+| :---------------- | ---: |
 | MuseScore         | [.mscz](/files/{{page.name | slice: 11, 99 | replace:'.md','.mscz'}}) |
 | PDF               | [.pdf](/files/{{page.name | slice: 11, 99 | replace:'.md','.pdf'}}) |
 
