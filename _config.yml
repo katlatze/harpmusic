@@ -47,7 +47,7 @@ detach              : false
 port                : 4000
 host                : 127.0.0.1
 baseurl             : "" # does not include hostname
-show_dir_listing    : false
+show_dir_listing    : true
 #show_dir_listing    : true
 
 # Outputting
@@ -82,3 +82,7 @@ collections:
   indexed_tags:
     output: true
     permalink: /tags/:name/
+
+plugins:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
