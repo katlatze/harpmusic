@@ -29,6 +29,12 @@ object[type='application/pdf'] {
     transform: scale(100%);
   }
   @media screen and (min-width: 1200px) {
-    transform: scale(113%);
+    transform: scale(82%);
+  }
+  @media screen and (min-width: 1300px) {
+    transform: scale(90%);
+  }
+  @media screen and (min-width: 1500px) {
+    transform: scale(100%);
   }
 }
