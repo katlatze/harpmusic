@@ -38,12 +38,3 @@ object[type='application/pdf'] {
     transform: scale(100%);
   }
 }
-
-.ko-fi::after {
-  content: '\f004';
-  font-weight: 900;
-  font-size: 8px;
-  color: #fff;
-  position: relative;
-  margin: 0px 0 12 -15px;
-}
