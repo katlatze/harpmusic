@@ -12,7 +12,7 @@
 #  noblank: true # open link in current tab
 
 - type: ko-fi
-  icon: "fas fa-mug ko-fi"
+  icon: "fa fa-coffee ko-fi"
   url: 'https://ko-fi.com/valfreyjamusic'
 # Uncomment and complete the url below to enable more contact options
 #
