@@ -1,14 +1,14 @@
 ---
-title: "Legend of the Wind (Nausicaä of the Valley of the Wind)"
-permalink: LegendoftheWind
-tags: [sheet_music,anime,studio_ghibli]
+title: "Dream of the Shore Near Another World (Chrono Cross)"
+permalink: DreamoftheShoreNearAnotherWorld
+tags: [sheet_music,video_game,chrono_series]
 ---
 
-> Range: C2-C6
-> Lever changes: 7
-> Also known as: _Kaze no Densetsu_
+> Range: G2-E6
+> Lever changes: 1 (2 if repeating the song)
+> Also known as: _On the Beach of Dreams ~Another World~_
 
-This was a request from a friend who I watch all the Ghibli movies with, and it is a really lovely song. Unfortunately there is not really any getting around 7 lever changes. I use C#s throughout the score in place of D♭s (for E♭-tuned harps), which may be highly disturbing to some musicians.
+I had to arrange this after I saw Emily Hopkins' beautiful harp cover of this song. A lot of Yasunori Mitsuda's music is not well suited for the lever harp (which makes me incredibly sad), but this song is great once you get the big LH jumps down.
 
 <b><u>Download</u></b><br>
 MuseScore: [link](/files/{{page.name | slice: 11, 99 | replace:'.md','.mscz'}})<br>
