@@ -12,9 +12,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Valfreyja's Lever Harp Sheet Music
+title: Valfreyja's Sheet Music
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Music for Lever Harp # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Alltomato
@@ -26,7 +26,7 @@ url: ""
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: K
+  name: Valfreyja
 #  email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
