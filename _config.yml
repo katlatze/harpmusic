@@ -12,6 +12,9 @@ collections:
   posts:
     output          : true
 
+# probably correct
+title: Harp!
+
 # Handling Reading
 safe                : false
 include             : [".htaccess"]
@@ -73,3 +76,9 @@ liquid:
 #  hard_wrap         : false
 #  footnote_nr       : 1
 #  show_warnings     : false
+
+
+collections:
+  indexed_tags:
+    output: true
+    permalink: /tags/:name/
