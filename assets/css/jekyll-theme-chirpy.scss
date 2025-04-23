@@ -8,7 +8,27 @@
 ';
 
 /* append your custom style below */
-object {
-  width: 100%;
-  height: 8.5in; /* lol */
+object[type='application/pdf'] {
+  /* width: 100%; */
+  // height: 8.5in; /* lol */
+  width: 8.5in;
+  height: 11in;
+
+  transform-origin: top left;
+  @media screen and (max-width: 849px) {
+    width: 100%;
+  }
+  @media screen and (min-width: 850px) {
+    width: 8.5in;
+    transform: scale(70%);
+  }
+  @media screen and (min-width: 992px) {
+    transform: scale(88%);
+  }
+  @media screen and (min-width: 1086px) {
+    transform: scale(100%);
+  }
+  @media screen and (min-width: 1200px) {
+    transform: scale(113%);
+  }
 }
