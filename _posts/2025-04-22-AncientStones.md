@@ -6,6 +6,19 @@ tags: [sheet_music,video_game]
 
 barely even slightly old stones
 
+> This is a tip
+{: .prompt-tip }
+
+> This is some info
+{: .prompt-info }
+
+> This is a warning
+{: .prompt-warning }
+
+> DANGER!!!!! This is danger
+{: .prompt-danger }
+
+
 
 <b><u>Download</u></b><br>
 MuseScore: [link](/files/{{page.name | slice: 11, 99 | replace:'.md','.mscz'}})<br>
