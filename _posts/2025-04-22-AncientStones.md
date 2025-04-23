@@ -10,4 +10,4 @@ barely even slightly old stones
 <b><u>Download</u></b><br>
 MuseScore: [link](/files/{{page.name | slice: 11, 99 | replace:'.md','.mscz'}})<br>
 PDF: [link](/files/{{page.name | slice: 11, 99 | replace:'.md','.pdf'}})<br><br>
-<object data="/files/{{page.name | slice: 11, 99 | replace:'.md','.pdf'}}" width="1000" height="1000" type='application/pdf'></object>
+<object data="/files/{{page.name | slice: 11, 99 | replace:'.md','.pdf'}}" type='application/pdf'></object>
