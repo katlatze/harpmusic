@@ -13,7 +13,7 @@ Hi! I go by Valfreyja online, and I'm a lever harp player from Canada. I really 
 
 <h3><i class="fa-solid fa-music"></i> My Scores</h3>
 
-My scores are nearly always based on sheet music arranged by other people, and you will find the original arrangers credited in my files where applicable. From these original sources of inspiration I adjust accompaniments to make them more harp-friendly, add lever flip markings where necessary, simplify things, etc. I'm still learning, so my scores are always improving. Let me know if you find any errors (like both hands playing the same note, or notes that need a lever flip that I missed).
+My scores are nearly always based on sheet music arranged by other people, and you will find the original arrangers credited in my files where applicable. From these original sources of inspiration I adjust accompaniments to make them more harp-friendly, add lever flip markings where necessary, simplify things, etc. I'm still learning, so my scores are always improving. Let me know in the comments if you find any errors (like both hands playing the same note, or notes that need a lever flip that I missed).
 
 All of my scores are designed for **34-string+ lever harps ranging from C2-A6**. Some songs may be playable on harps with less strings - I'll aim to write the note range on each page. I will sometimes lower sections by an octave in my arrangements to avoid the very high strings (personal preference). 
 
