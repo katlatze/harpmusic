@@ -19,5 +19,5 @@ One of my favourite songs to play - a really moody, relaxing track from Hollow K
 <iframe src="https://docs.google.com/viewer?url=https://harp.nebtown.info/files/{{page.name | slice: 11, 99 | replace:'.md','.pdf'}}&embedded=true" style="width:100%; height:650px;" frameborder="0"></iframe>
 </object>
 
-{% include embed/{youtube}.html id='{eTe2XPV9eBw}' %}
+{% include embed/youtube.html id='eTe2XPV9eBw' %}
 
