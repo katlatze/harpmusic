@@ -1,9 +1,10 @@
 ---
 title: Ancient Stones (Elder Scrolls V: Skyrim)
+permalink: AncientStones
 tags: [sheet_music,video_game]
 ---
 
-This is a file
+barely even slightly old stones
 
 
 <b><u>Download</u></b><br>
