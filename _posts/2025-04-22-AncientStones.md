@@ -1,5 +1,5 @@
 ---
-title: Ancient Stones (Elder Scrolls V: Skyrim)
+title: 'Ancient Stones (Elder Scrolls V: Skyrim)'
 permalink: AncientStones
 tags: [sheet_music,video_game]
 ---
