@@ -12,11 +12,5 @@ A beautiful relaxing song from Twilight Princess that I love - unfortunately, _Y
 
 For some good news, this song only requires 3 octaves, so it could be played on a 26-string harp if you play everything up one octave!
 
-| Download          | Link |
-| :---------------- | ---: |
-| MuseScore         | [.mscz](/files/{{page.name | slice: 11, 99 | replace:'.md','.mscz'}}) |
-| PDF               | [.pdf](/files/{{page.name | slice: 11, 99 | replace:'.md','.pdf'}}) |
-
-<object data="/files/{{page.name | slice: 11, 99 | replace:'.md','.pdf'}}" type='application/pdf'>
-<iframe src="https://docs.google.com/viewer?url=https://harp.nebtown.info/files/{{page.name | slice: 11, 99 | replace:'.md','.pdf'}}&embedded=true" style="width:100%; height:650px;" frameborder="0"></iframe>
-</object>
+{% include embed/downloads.md %}
+{% include embed/pdf.md %}
