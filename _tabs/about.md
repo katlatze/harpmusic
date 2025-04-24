@@ -6,7 +6,7 @@ order: 4
 
 <h3><i class="fa-solid fa-face-smile"></i> Me</h3>
 
-Hi! I go by Valfreyja online, and I'm a lever harp player from Canada. I really love video game music, and it was a struggle trying to play from piano sheets that didn't take the harp's diatonic nature into consideration. In 2024, I finally learned how to read sheet music with some proficiency and learned to make my own arrangements.
+Hi! I go by Valfreyja online, and I'm a lever harp player from Canada. I really love video game music, and it was a struggle trying to play from piano sheets that didn't take the harp's diatonic nature into consideration. In 2024, I finally learned how to read sheet music with some proficiency and learned to make my own arrangements. 
 
 > Quick reference: ⬦ designates a lever change, (♪) indicates an optional note
 {: .prompt-info }
@@ -23,11 +23,7 @@ I generally leave out dynamics markings in my sheet music, and I encourage anyon
 
 I offer the original musescore files so you can listen to them and make your own adjustments. **You are welcome to use my scores for anything non-commercial. If you record them I would LOVE to see.**
 
-<h3><i class="fa-solid fa-heart"></i> Why my arrangements are free</h3>
-
-As a kid interested in computers, I grew up with a strong passion for the open source movement. I think creative people sharing freely with one another is one of the best things we have in life. On top of that, most of my scores exist only because of the hard work done by other people who figured out the bones of the songs. My goal is to see more people playing songs they love on the lever harp.
-
-With that said, if you're enjoying my work and you'd like to leave a donation, I have a Ko-fi page set up here:
+If you're enjoying my work and you'd like to leave a donation, I have a Ko-fi page set up here:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T11J6MO)
 
