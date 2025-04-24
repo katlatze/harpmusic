@@ -1,7 +1,7 @@
 ---
-title: "I Was Lost Without You (Mass Effect 3))"
+title: "I Was Lost Without You (Mass Effect 3)"
 permalink: IWasLostWithoutYou
-tags: [sheet_music,video_game]
+tags: [sheet_music,video_game,mass_effect]
 ---
 
 >**Range:** C2-C6
