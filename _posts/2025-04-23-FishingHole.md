@@ -1,7 +1,7 @@
 ---
 title: "Fishing Hole (The Legend of Zelda: Twilight Princess)"
 permalink: FishingHole
-tags: [sheet_music,video_game,zelda]
+tags: [sheet_music,video_game,zelda,26_string]
 ---
 
 >**Range:** F2-F5

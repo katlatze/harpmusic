@@ -1,7 +1,7 @@
 ---
 title: "Lullaby Set (Braid)"
 permalink: LullabySet
-tags: [sheet_music,video_game]
+tags: [sheet_music,video_game,26_string]
 ---
 
 >**Range:** C2-G5
