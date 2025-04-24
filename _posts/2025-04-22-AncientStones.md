@@ -11,5 +11,4 @@ tags: [sheet_music,video_game,elder_scrolls]
 A beautiful track from Skyrim, which I've arranged to have no lever changes!
 
 {% include embed/downloads.md %}
-| PDF (better)       |  [.pdf](/files/{{page.name | slice: 11, 99 | replace:'.md','.pdf'}})  |
 {% include embed/pdf.md %}
