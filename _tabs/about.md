@@ -15,7 +15,7 @@ Hi! I go by Valfreyja online, and I'm a lever harp player from Canada. I really 
 
 My scores are nearly always based on sheet music arranged by other people, and you will find the original arrangers credited in my files where applicable. From these original sources of inspiration I adjust accompaniments to make them more harp-friendly, add lever flip markings where necessary, simplify things, etc. I'm still learning, so my scores are always improving. Let me know in the comments if you find any errors (like both hands playing the same note, or notes that need a lever flip that I missed).
 
-All of my scores are designed for **34-string+ lever harps ranging from C2-A6**. Some songs may be playable on harps with less strings - I'll aim to write the note range on each page. I will sometimes lower sections by an octave in my arrangements to avoid the very high strings (personal preference). 
+Most of my scores are designed for **34-string lever harps ranging from C2-A6**. Some songs may be playable on harps with less strings - check the `26_string` tag for songs that can be played on a 26-string lap harp such as a Harpsicle.
 
 In terms of difficulty, I aim for an **"early intermediate"** level of playing. Sometimes I will leave in fast/difficult LH accompaniments, but these can almost always be simplified by the player to "1-5-8s" (or even just octaves, or a single bass note). I always aim to arrange for the lowest number of lever changes possible.
 
