@@ -11,5 +11,6 @@ tags: [sheet_music,video_game,hollow_knight]
 One of my favourite songs to play - a really moody, relaxing track from Hollow Knight, with NO levers necessary. Hollow Knight has one of my favourite soundtracks of all time, and it sounds great on the harp.
 
 {% include embed/downloads.md %}
-{% include embed/pdf.md %}
+Listen to me play it here:<br>
 {% include embed/youtube.html id='eTe2XPV9eBw' %}
+{% include embed/pdf.md %}

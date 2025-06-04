@@ -11,4 +11,6 @@ tags: [sheet_music,video_game,final_fantasy]
 This was a request from a member of the Harps Unite discord server that turned out to be a pretty nice harp song!
 
 {% include embed/downloads.md %}
+Listen to Melody Messenger play it here:<br>
+{% include embed/youtube.html id='qSXQXeS6WWU' %}
 {% include embed/pdf.md %}

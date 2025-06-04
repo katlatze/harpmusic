@@ -13,5 +13,6 @@ tags: [sheet_music,anime]
 I found Lyra Arpa's cover of this song on Youtube and I fell in love with it _immediately_. As of writing this I still haven't watched the show, but it's in my list to watch one day. I love this song so much!!
 
 {% include embed/downloads.md %}
-{% include embed/pdf.md %}
+Listen to me play it here:<br>
 {% include embed/youtube.html id='B5DfSyHmHak' %}
+{% include embed/pdf.md %}
