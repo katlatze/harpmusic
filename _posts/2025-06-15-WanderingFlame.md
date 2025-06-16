@@ -4,7 +4,7 @@ permalink: WanderingFlame
 tags: [sheet_music,video_game,final_fantasy]
 ---
 
->**Range:** D2-E6
+>**Range:** D2-F6
 >
 >**Lever changes:** 0
 
