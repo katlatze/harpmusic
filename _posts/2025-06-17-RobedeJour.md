@@ -12,5 +12,13 @@ tags: [sheet_music,video_game,26_string]
 
 I recently fell madly in love with Clair Obscur and this is my favourite song in the soundtrack so far. This song only requires 3 octaves, so you could totally play it an octave higher on a small harp!
 
-{% include embed/downloads.md %}
+**Update Aug 15 2025:** Updated with changes that make it easier to play. I recommend using version 2, but I left up version 1 for comparison.
+
+| Download  |                       Link |
+| :-------- | -------------------------: |
+| MuseScore (version 2)| [.mscz](/files/{{page.name | slice: 11, 99 | replace:'.md','_v2.mscz'}}) |
+| PDF (version 2)      |  [.pdf](/files/{{page.name | slice: 11, 99 | replace:'.md','_v2.pdf'}})  |
+| MuseScore | [.mscz](/files/{{page.name | slice: 11, 99 | replace:'.md','.mscz'}}) |
+| PDF       |  [.pdf](/files/{{page.name | slice: 11, 99 | replace:'.md','.pdf'}})  |
+
 {% include embed/pdf.md %}
