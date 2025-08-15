@@ -20,7 +20,7 @@ A beautiful track from Skyrim, which I've arranged to have no lever changes!
 | PDF       |  [.pdf](/files/{{page.name | slice: 11, 99 | replace:'.md','.pdf'}})  |
 
 <object
-  data="/files/{{page.name | slice: 11, 99 | replace:'.md','.pdf'}}"
+  data="/files/{{page.name | slice: 11, 99 | replace:'.md','_v2.pdf'}}"
   type="application/pdf"
 >
   <iframe

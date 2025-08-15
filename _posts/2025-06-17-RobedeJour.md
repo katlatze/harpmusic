@@ -22,7 +22,7 @@ I recently fell madly in love with Clair Obscur and this is my favourite song in
 | PDF       |  [.pdf](/files/{{page.name | slice: 11, 99 | replace:'.md','.pdf'}})  |
 
 <object
-  data="/files/{{page.name | slice: 11, 99 | replace:'.md','.pdf'}}"
+  data="/files/{{page.name | slice: 11, 99 | replace:'.md','_v2.pdf'}}"
   type="application/pdf"
 >
   <iframe
